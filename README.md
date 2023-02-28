@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Minh Chi</h1>
 <h3 align="center">I'm a student in University of Science - VNUHCM, major in Mathematics and Computer Science.</h3>
 
-- 🌱 I’m currently learning **Mathematics and Philosophy**
+- 🌱 I’m currently learning: **Mathematics and Philosophy**
 
-- ⚡ Fun fact **I'm sleeping all day**
+- ⚡ Fun fact: **I can sleep all day**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
