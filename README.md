@@ -1,5 +1,4 @@
-<!-- <a href="#"><img src="https://embed.lottiefiles.com/animation/98991" width="100%" height="auto"></a> -->
-
+<a href="#"><img src="./desk.jpg" width="100%" height="auto"></a>
 
 <h1 align="center">Hi 👋, I'm Minh Chi</h1>
 <h3 align="center">I'm a student in University of Science - VNUHCM, major in Mathematics and Computer Science.</h3>
